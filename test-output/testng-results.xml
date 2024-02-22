@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T18:52:04 IST" name="Default suite" finished-at="2024-02-15T18:52:22 IST" duration-ms="17795">
+    <groups>
+    </groups>
+    <test started-at="2024-02-15T18:52:04 IST" name="Default test" finished-at="2024-02-15T18:52:22 IST" duration-ms="17795">
+      <class name="testpkg.storenvytest">
+        <test-method is-config="true" signature="test()[pri:0, instance:testpkg.storenvytest@1af7f54a]" started-at="2024-02-15T18:52:04 IST" name="test" finished-at="2024-02-15T18:52:21 IST" duration-ms="17510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="testing()[pri:0, instance:testpkg.storenvytest@1af7f54a]" started-at="2024-02-15T18:52:21 IST" name="testing" finished-at="2024-02-15T18:52:21 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- testpkg.storenvytest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
